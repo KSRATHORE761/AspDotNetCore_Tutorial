@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\TodoRestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5B8763-E906-43EF-9429-52305B294C53}|TodoRestAPI.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\todorestapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5B8763-E906-43EF-9429-52305B294C53}|TodoRestAPI.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5B8763-E906-43EF-9429-52305B294C53}|TodoRestAPI.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\todorestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5B8763-E906-43EF-9429-52305B294C53}|TodoRestAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5B8763-E906-43EF-9429-52305B294C53}|TodoRestAPI.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\todorestapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5B8763-E906-43EF-9429-52305B294C53}|TodoRestAPI.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\TodoRestAPI\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\TodoRestAPI\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:37:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\TodoRestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\TodoRestAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:26:54.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\TodoRestAPI\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Models\\TodoContext.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\TodoRestAPI\\Models\\TodoContext.cs",
+              "RelativeToolTip": "Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:26:17.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

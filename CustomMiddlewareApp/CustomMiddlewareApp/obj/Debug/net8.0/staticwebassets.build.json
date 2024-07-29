@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RHmaCIqRJZXbXZQFLfmtUMC5iroivI2AayzC9FFw/JE=",
+  "Source": "CustomMiddlewareApp",
+  "BasePath": "_content/CustomMiddlewareApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

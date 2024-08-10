@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\views\\home\\confidentialdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\home\\confidentialdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\cookieauthentication\\cookieauthentication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59A867FE-521A-4EDA-A56E-DEBCDA6A289C}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CookieAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T04:04:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CookieAuthentication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T02:45:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CookieAuthentication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T02:49:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Models\\UserModel.cs",
+              "RelativeToolTip": "CookieAuthentication\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:32:05.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CookieAuthentication\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T02:51:14.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Program.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Program.cs",
+              "RelativeToolTip": "CookieAuthentication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T02:43:57.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfidentialData.cshtml",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Home\\ConfidentialData.cshtml",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Home\\ConfidentialData.cshtml",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Home\\ConfidentialData.cshtml",
+              "RelativeToolTip": "CookieAuthentication\\Views\\Home\\ConfidentialData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T02:58:05.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CookieAuthentication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T04:19:55.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\Models\\LoginModel.cs",
+              "RelativeToolTip": "CookieAuthentication\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T02:59:27.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

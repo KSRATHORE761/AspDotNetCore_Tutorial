@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7fahGNknw8=",
+  "success": true,
+  "projectFilePath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\CookieAuthentication\\CookieAuthentication\\CookieAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shobhna Rathore\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

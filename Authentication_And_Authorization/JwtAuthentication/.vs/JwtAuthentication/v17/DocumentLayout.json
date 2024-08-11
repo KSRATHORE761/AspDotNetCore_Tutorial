@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\jwtauthentication\\jwtauthentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\jwtauthentication\\jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\jwtauthentication\\jwtauthentication\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\jwtauthentication\\jwtauthentication\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\authentication_and_authorization\\jwtauthentication\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA02610-1ACB-4C68-BAA1-AF388C074AC6}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JwtAuthentication\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Models\\LoginModel.cs",
+              "RelativeToolTip": "JwtAuthentication\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:02:12.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtAuthentication\\appsettings.json",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\appsettings.json",
+              "RelativeToolTip": "JwtAuthentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T11:39:48.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthentication\\Program.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Program.cs",
+              "RelativeToolTip": "JwtAuthentication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:34:14.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "JwtAuthentication\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Models\\UserModel.cs",
+              "RelativeToolTip": "JwtAuthentication\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:33:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "JwtAuthentication\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\Authentication_And_Authorization\\JwtAuthentication\\JwtAuthentication\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "JwtAuthentication\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:31:22.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

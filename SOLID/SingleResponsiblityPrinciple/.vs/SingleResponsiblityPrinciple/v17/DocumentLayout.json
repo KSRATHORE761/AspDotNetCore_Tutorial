@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\singleresponsiblityprinciple\\singleresponsiblityprinciple\\bal\\icontactdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|solutionrelative:singleresponsiblityprinciple\\bal\\icontactdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\singleresponsiblityprinciple\\singleresponsiblityprinciple\\bal\\icontactparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|solutionrelative:singleresponsiblityprinciple\\bal\\icontactparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\singleresponsiblityprinciple\\singleresponsiblityprinciple\\bal\\icontactwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|solutionrelative:singleresponsiblityprinciple\\bal\\icontactwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\singleresponsiblityprinciple\\singleresponsiblityprinciple\\csvfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|solutionrelative:singleresponsiblityprinciple\\csvfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\singleresponsiblityprinciple\\singleresponsiblityprinciple\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0EE36D-C5D6-43EF-A872-7544F037113E}|SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj|solutionrelative:singleresponsiblityprinciple\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContactParser.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\BAL\\IContactParser.cs",
+              "RelativeDocumentMoniker": "SingleResponsiblityPrinciple\\BAL\\IContactParser.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\BAL\\IContactParser.cs",
+              "RelativeToolTip": "SingleResponsiblityPrinciple\\BAL\\IContactParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:41:48.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContactWriter.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\BAL\\IContactWriter.cs",
+              "RelativeDocumentMoniker": "SingleResponsiblityPrinciple\\BAL\\IContactWriter.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\BAL\\IContactWriter.cs",
+              "RelativeToolTip": "SingleResponsiblityPrinciple\\BAL\\IContactWriter.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:41:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvFileProcessor.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\CsvFileProcessor.cs",
+              "RelativeDocumentMoniker": "SingleResponsiblityPrinciple\\CsvFileProcessor.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\CsvFileProcessor.cs",
+              "RelativeToolTip": "SingleResponsiblityPrinciple\\CsvFileProcessor.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:37:12.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IContactDataProvider.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\BAL\\IContactDataProvider.cs",
+              "RelativeDocumentMoniker": "SingleResponsiblityPrinciple\\BAL\\IContactDataProvider.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\BAL\\IContactDataProvider.cs",
+              "RelativeToolTip": "SingleResponsiblityPrinciple\\BAL\\IContactDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:41:03.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\DTO\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "SingleResponsiblityPrinciple\\DTO\\ContactDTO.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple\\DTO\\ContactDTO.cs",
+              "RelativeToolTip": "SingleResponsiblityPrinciple\\DTO\\ContactDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:39:27.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

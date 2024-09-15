@@ -1,0 +1,29 @@
+﻿using ContactManagerApp.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
+
+namespace ContactManagerApp.Authorization
+{
+    public class ContactManagerAuthorizationHandler : AuthorizationHandler<OperationAuthorizationRequirement,Contact>
+    {
+        protected override Task HandleRequirementAsync(AuthorizationHandlerContext context, OperationAuthorizationRequirement requirement, Contact resource)
+        {
+            if(context.User ==null || resource == null)
+            {
+                return Task.CompletedTask;
+            }
+            //If not asking for approval/reject, return;
+            if (requirement.Name != Constants.Constants.ApproveOperationName &&
+                requirement.Name != Constants.Constants.RejectOperationName) 
+            {
+                return Task.CompletedTask;
+            }
+            //Manager can aaprove/reject
+            if (context.User.IsInRole(Constants.Constants.ContactManagersRole)) 
+            {
+                context.Succeed(requirement);
+            }
+            return Task.CompletedTask;
+        }
+    }
+}

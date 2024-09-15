@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\CustomMiddlewareApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\custommiddlewareapp\\custommiddlewareapp\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|solutionrelative:custommiddlewareapp\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\custommiddlewareapp\\custommiddlewareapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|solutionrelative:custommiddlewareapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\custommiddlewareapp\\custommiddlewareapp\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|solutionrelative:custommiddlewareapp\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\custommiddlewareapp\\custommiddlewareapp\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|solutionrelative:custommiddlewareapp\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A91F38E-8857-47C6-BA61-B9B0E6644819}|CustomMiddlewareApp\\CustomMiddlewareApp.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\custommiddlewareapp\\custommiddlewareapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\CustomMiddlewareApp\\CustomMiddlewareApp\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "CustomMiddlewareApp\\WeatherForecast.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\CustomMiddlewareApp\\CustomMiddlewareApp\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "CustomMiddlewareApp\\Middlewares\\ExceptionHandlingMiddleware.cs",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "CustomMiddlewareApp\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAUwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T16:15:18.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T16:15:18.787Z"
             },
             {
               "$type": "Document",
@@ -72,18 +71,17 @@
               "RelativeToolTip": "CustomMiddlewareApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T15:52:18.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T15:52:18.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\CustomMiddlewareApp\\CustomMiddlewareApp\\Middlewares\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "CustomMiddlewareApp\\Middlewares\\LoggingMiddleware.cs",
               "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\CustomMiddlewareApp\\CustomMiddlewareApp\\Middlewares\\LoggingMiddleware.cs",
               "RelativeToolTip": "CustomMiddlewareApp\\Middlewares\\LoggingMiddleware.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBcAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T15:50:48.098Z",
               "EditorCaption": ""

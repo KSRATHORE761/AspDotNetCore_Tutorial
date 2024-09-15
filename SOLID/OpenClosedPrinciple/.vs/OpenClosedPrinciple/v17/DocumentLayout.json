@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\openclosedprinciple\\openclosedprinciple\\eventlogerrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\eventlogerrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\openclosedprinciple\\openclosedprinciple\\openclosedprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\openclosedprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\openclosedprinciple\\openclosedprinciple\\textfileerrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\textfileerrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\openclosedprinciple\\openclosedprinciple\\ierrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C54120-3C26-4D7F-AC11-18613DB3E5BD}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\ierrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenClosedPrinciple",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+              "RelativeToolTip": "OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T17:21:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventLogErrorLogger.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\EventLogErrorLogger.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\EventLogErrorLogger.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\EventLogErrorLogger.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\EventLogErrorLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:22:09.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IErrorLogger.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\IErrorLogger.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\IErrorLogger.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\IErrorLogger.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\IErrorLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:21:32.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFileErrorLogger.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\TextFileErrorLogger.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\TextFileErrorLogger.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\TextFileErrorLogger.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\TextFileErrorLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:18:00.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

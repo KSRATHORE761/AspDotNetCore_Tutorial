@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGjyNvIus3c=",
+  "success": true,
+  "projectFilePath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shobhna Rathore\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

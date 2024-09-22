@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\InterfaceSegregationPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1601855-3184-49ED-91D6-5538A7E8091D}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\kuldeep\\asp.net\\aspdotnetcore_tutorial\\aspdotnetcore_tutorial\\solid\\interfacesegregationprinciple\\interfacesegregationprinciple\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1601855-3184-49ED-91D6-5538A7E8091D}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Class1.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Class1.cs",
+              "ToolTip": "C:\\Kuldeep\\Asp.net\\AspDotNetCore_Tutorial\\AspDotNetCore_Tutorial\\SOLID\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Class1.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Class1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:05:24.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
